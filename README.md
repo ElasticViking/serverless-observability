@@ -1,4 +1,4 @@
-Serverless Observability 101
+Serverless Observability 101 (visit Elastic's webpage: https://www.elastic.co/observability/serverless-monitoring)
 
 If you are migrating to serverless, Elastic Observability will help you create alerts and interact with logs and rules.
 Below there are 4 alerts defined on the global and monitor cluster. Let's follow them closely:
